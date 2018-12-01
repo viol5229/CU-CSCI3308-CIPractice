@@ -1,8 +1,9 @@
 /*
  * geometry_test.c
- * Andy Sayler
+ * Virginia Olmstead
+ 	worked with Kyle Bremont
  * CSCI 3308
- * Summer 2014
+ * Fall 2018
  *
  * This file containsunit tests for geometry.c
  *
